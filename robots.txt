@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://guanaprints-bit.github.io/catalogos-guanaprints/sitemap.xml
+Sitemap: https://guanaprints.com/sitemap.xml
